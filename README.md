@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am a senior CS student at Gonzaga University looking for a summer job or internship.
+I am a Back End software engineer with a BS in CS from Gonzaga University currently looking for a job!
 - 🔭 I’m currently working on a game dice collecting managment service
 
 <!--
@@ -8,5 +8,5 @@ I am a senior CS student at Gonzaga University looking for a summer job or inter
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a game dice collecting managment service
+- 🔭 Current Project: A discord bot for an online community to help manage their in game recycling
 -->
