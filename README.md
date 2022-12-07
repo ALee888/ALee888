@@ -1,6 +1,6 @@
-### Hi there 👋
+### HELLO! 👋
 
-I am a Back End software engineer with a BS in CS from Gonzaga University currently looking for a job!
+I am a Software engineer with a BS in CS from Gonzaga University currently looking for a job!
 - 🔭 I’m currently working on a game dice collecting managment service
 
 <!--
